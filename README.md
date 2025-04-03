@@ -52,7 +52,7 @@ Each dashboard includes:
 
 ---
 
-### 1. [SOC Alerts Dashboard](SOC_Alerts_Dashboard/README.md)
+### 1. [SOC Alerts Dashboard](https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/SOC_Alerts_Dashboard/visuals/README.me)
 **Use Case:** Simulates alert triage across phishing, brute force, ransomware, insider threats, etc.  
 **Audience:** SOC analysts, security managers  
 **Key Skills:** Alert classification, severity logic, time-based trends, threat volume analysis
