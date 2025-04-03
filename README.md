@@ -69,7 +69,7 @@ Each dashboard includes:
 
 ---
 <p align="center">
-  <img src="https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/Compliance_Controls_Dashboard/Compliance_Controls_Dashboard.pdf?raw=true" alt="Compliance Dashboard Preview" width="600"/>
+  <img src="https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/Compliance_Controls_Dashboard/IMG_9631.jpeg" width="600"/>
 </p>
 ### 3. [IAM Access Logs Dashboard](SOC_Alerts_Dashboard/IAM_Access_Logs_Dashboard/README.md)
 **Use Case:** Detects excessive login attempts, missing MFA, and locked user accounts  
