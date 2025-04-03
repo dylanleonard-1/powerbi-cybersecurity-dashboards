@@ -65,7 +65,7 @@ Each dashboard includes:
 
 ---
 
-### 2. [Compliance Controls Dashboard](SOC_Alerts_Dashboard/Compliance_Controls_Dashboard/README.md)
+### 2. [Compliance Controls Dashboard](https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/Compliance_Controls_Dashboard/README.md)
 **Use Case:** Tracks pass/fail audit results across frameworks (CIS, NIST, ISO 27001, SOC2)  
 **Audience:** GRC, audit teams, CISO reporting  
 **Key Skills:** DAX calculated metrics, compliance mapping, interactive filtering by framework/business unit
