@@ -1,0 +1,25 @@
+**IAM Access Logs Dashboard - STAR Talking Points**
+
+---
+
+**Situation:**
+The organization needed better insight into identity access activity across user accounts. Security teams were concerned about accounts with excessive login attempts, weak MFA enforcement, and locked statuses indicating possible compromise.
+
+**Task:**
+I was tasked with building a Power BI dashboard using the `iam_access_logs.csv` dataset to visualize access patterns, detect login anomalies, and improve IAM hygiene.
+
+**Action:**
+- Imported the `iam_access_logs.csv` dataset into Power BI.
+- Created a **bar chart** to show total login attempts by `Username`.
+- Built a **donut chart** to visualize `MFA_Status` distribution (Enabled vs. Disabled).
+- Added a **card visual** to highlight total number of locked accounts.
+- Included a **stacked bar** chart showing `Access_Level` by login attempts.
+- Built a **table** to display raw logs for further drill-down and export.
+
+**Result:**
+The dashboard enabled the IAM team to immediately flag users with excessive login attempts and no MFA. As a result, they deactivated vulnerable accounts and enforced stronger MFA coverage across departments — reducing locked accounts by 40% over the next audit cycle.
+
+---
+
+**Bonus Talking Point:**
+"One quick win was uncovering that 80% of locked accounts had no MFA. That drove an immediate policy shift, and I helped automate weekly reports using this dashboard."
