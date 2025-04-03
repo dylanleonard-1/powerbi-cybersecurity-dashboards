@@ -58,6 +58,9 @@ Each dashboard includes:
 **Key Skills:** Alert classification, severity logic, time-based trends, threat volume analysis
 
 ---
+<p align="center">
+  <img src="https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/SOC_Alerts_Dashboard/visuals/SOC_Alerts_Dashboard.pdf?raw=true" alt="SOC Alerts Preview" width="600"/>
+</p>
 
 ### 2. [Compliance Controls Dashboard](SOC_Alerts_Dashboard/Compliance_Controls_Dashboard/README.md)
 **Use Case:** Tracks pass/fail audit results across frameworks (CIS, NIST, ISO 27001, SOC2)  
@@ -65,14 +68,18 @@ Each dashboard includes:
 **Key Skills:** DAX calculated metrics, compliance mapping, interactive filtering by framework/business unit
 
 ---
-
+<p align="center">
+  <img src="https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/Compliance_Controls_Dashboard/Compliance_Controls_Dashboard.pdf?raw=true" alt="Compliance Dashboard Preview" width="600"/>
+</p>
 ### 3. [IAM Access Logs Dashboard](SOC_Alerts_Dashboard/IAM_Access_Logs_Dashboard/README.md)
 **Use Case:** Detects excessive login attempts, missing MFA, and locked user accounts  
 **Audience:** IAM engineers, IT security admins  
 **Key Skills:** Access behavior analytics, donut & bar charting, DAX filters, user risk flagging
 
 ---
-
+<p align="center">
+  <img src="https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/IAM_Access_Logs_Dashboard/IAM_Access_Insights_Report.pdf?raw=true" alt="IAM Access Preview" width="600"/>
+</p>
 ## Want to Dive In?
 
 Pick any folder and open the embedded `README.md` to go deep:
