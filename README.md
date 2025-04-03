@@ -79,7 +79,7 @@ Each dashboard includes:
 
 ---
 
-### 3. [IAM Access Logs Dashboard](SOC_Alerts_Dashboard/IAM_Access_Logs_Dashboard/README.md)
+### 3. [IAM Access Logs Dashboard](https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/IAM_Access_Logs_Dashboard/README.md)
 **Use Case:** Detects excessive login attempts, missing MFA, and locked user accounts  
 **Audience:** IAM engineers, IT security admins  
 **Key Skills:** Access behavior analytics, donut & bar charting, DAX filters, user risk flagging
