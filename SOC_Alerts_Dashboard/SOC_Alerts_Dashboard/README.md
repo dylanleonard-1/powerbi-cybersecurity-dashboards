@@ -4,7 +4,7 @@
 
 > *"Built to mirror the daily grind of a Tier 1/2 SOC analyst — from alert floods to severity logic and real-time response readiness."*
 
-![SOC Dashboard Preview](./visuals/dashboard-preview.png)
+![SOC Dashboard Preview](https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/SOC_Alerts_Dashboard/visuals/IMG_9632.jpeg)
 
 ---
 
