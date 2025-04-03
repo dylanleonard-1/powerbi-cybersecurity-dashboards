@@ -1,0 +1,16 @@
+SOC Alerts Dashboard - STAR Breakdown
+
+🔹 Situation:
+Created a dashboard simulating security operations center (SOC) alerts.
+
+🔹 Task:
+Needed to visualize key SOC metrics (alert volume, severity, timeline).
+
+🔹 Action:
+- Connected raw CSV datasets
+- Cleaned & transformed alert data
+- Built visuals: Top alert types, severity donut, total alert card, timeline trend
+
+🔹 Result:
+- Clear SOC situational awareness dashboard
+- Ready for leadership or analyst use
