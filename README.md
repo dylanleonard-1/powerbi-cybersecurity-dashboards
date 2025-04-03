@@ -1,5 +1,9 @@
 # Power BI Cybersecurity Dashboards by Dylan Leonard
 
+<p align="center">
+  <img src="https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/IMG_9624.webp?raw=true" alt="Power BI Logo" width="400"/>
+</p>
+
 Welcome to a purpose-built portfolio of interactive cybersecurity dashboards built entirely in **Power BI**, designed to simulate real-world threat visibility, IAM hygiene monitoring, and compliance posture across enterprise environments.
 
 This project demonstrates how **data analytics and security operations intersect** to power faster decision-making, stronger detection capabilities, and streamlined compliance — all through compelling, interactive dashboards.
