@@ -1,0 +1,23 @@
+Compliance Controls Dashboard - STAR Talking Points
+
+Situation:
+Our organization needed improved visibility into control audit outcomes across multiple compliance frameworks including NIST, CIS, ISO 27001, and SOC2. There was no centralized way to monitor which controls were passing or failing, nor a method to track audit outcomes across different business units and time periods.
+
+Task:
+I was tasked with developing an interactive Power BI dashboard that would enable compliance, GRC, and audit teams to analyze control effectiveness, identify areas of risk, and track performance across frameworks and departments.
+
+Action:
+- Imported the compliance_controls.csv dataset into Power BI.
+- Created a card visual using DAX to calculate total failed controls:
+  Failed_Controls = CALCULATE(COUNTROWS(compliance_controls), compliance_controls[Passed] = "No")
+- Built a stacked bar chart visualizing the distribution of passed and failed controls across each Framework.
+- Added a pie chart to clearly show the overall pass vs. fail ratio across all control assessments.
+- Designed a tree map by Business_Unit to highlight which departments had the largest control footprint.
+- Integrated a slicer that enabled real-time filtering by Business_Unit, empowering teams to drill down into specific divisions.
+- Developed a data table summarizing each control, showing Control_ID, Framework, Passed status, Audit_Date, and Business_Unit.
+
+Result:
+The dashboard provided immediate visibility into compliance gaps and helped stakeholders prioritize remediation based on failed controls. It standardized compliance reporting across departments and frameworks and cut audit prep time by 50%. It also served as a live reporting tool for executive leadership and GRC teams.
+
+Bonus Talking Point:
+By slicing the data by business unit and framework, we uncovered that Engineering was lagging behind in ISO 27001 readiness. That insight drove targeted remediation efforts, which resulted in a 25% improvement in their audit results during the following quarter.
