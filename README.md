@@ -23,6 +23,14 @@ These dashboards reflect exactly what you’d use in a real enterprise — with 
 
 ---
 
+## Key Visual
+
+<p align="center">
+  <img src="https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/IMG_9626.png?raw=true" alt="Threat Dashboard" width="800"/>
+</p>
+
+<p align="center"><i>Visualization of alert types, actors, and event frequency across global orgs</i></p>
+
 ## Core Skills Demonstrated
 
 - **Power BI** (data modeling, visuals, DAX measures)
