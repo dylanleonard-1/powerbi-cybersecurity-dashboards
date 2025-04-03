@@ -61,8 +61,10 @@ Each dashboard includes:
 <p align="center">
   <img src="https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/SOC_Alerts_Dashboard/visuals/IMG_9632.jpeg" alt="SOC Alerts Preview" width="600"/>
 </p>
+*Preview of the dashboard in action — showcasing key visual insights used by SOC analysts and security managers. See full breakdown and screenshots inside the folder.*
 
 ---
+
 ### 2. [Compliance Controls Dashboard](SOC_Alerts_Dashboard/Compliance_Controls_Dashboard/README.md)
 **Use Case:** Tracks pass/fail audit results across frameworks (CIS, NIST, ISO 27001, SOC2)  
 **Audience:** GRC, audit teams, CISO reporting  
@@ -72,6 +74,8 @@ Each dashboard includes:
 <p align="center">
   <img src="https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/Compliance_Controls_Dashboard/IMG_9631.jpeg" width="600"/>
 </p>
+
+*Preview of the dashboard in action — showcasing key visual insights used by GRC teams, auditors, and compliance leaders. See full breakdown and screenshots inside the folder.*
 
 ---
 
@@ -84,6 +88,8 @@ Each dashboard includes:
 <p align="center">
   <img src="https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/IAM_Access_Logs_Dashboard/IAM_Access_Insights_Report.pdf?raw=true" alt="IAM Access Preview" width="600"/>
 </p>
+
+*Preview of the dashboard in action — showcasing key visual insights used by IAM engineers and IT security admins. See full breakdown and screenshots inside the folder.*
 
 ---
 
