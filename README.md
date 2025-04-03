@@ -84,6 +84,9 @@ Each dashboard includes:
 <p align="center">
   <img src="https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/IAM_Access_Logs_Dashboard/IAM_Access_Insights_Report.pdf?raw=true" alt="IAM Access Preview" width="600"/>
 </p>
+
+---
+
 ## Want to Dive In?
 
 Pick any folder and open the embedded `README.md` to go deep:
