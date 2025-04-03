@@ -59,7 +59,7 @@ Each dashboard includes:
 
 ---
 <p align="center">
-  <img src="https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/SOC_Alerts_Dashboard/visuals/SOC_Alerts_Dashboard.pdf?raw=true" alt="SOC Alerts Preview" width="600"/>
+  <img src="https://github.com/dylanleonard-1/powerbi-cybersecurity-dashboards/blob/main/SOC_Alerts_Dashboard/SOC_Alerts_Dashboard/visuals/IMG_9632.jpeg" alt="SOC Alerts Preview" width="600"/>
 </p>
 
 ### 2. [Compliance Controls Dashboard](SOC_Alerts_Dashboard/Compliance_Controls_Dashboard/README.md)
